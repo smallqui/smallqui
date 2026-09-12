@@ -1,9 +1,8 @@
-studying cs @ montclair state university
+studying computer science @ montclair state university  
+interested in backend development and reverse engineering
 
-into backend development and reverse engineering
+## technologies
 
-
-**technologies i use**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -16,4 +15,4 @@ into backend development and reverse engineering
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**most repos are private**
+<sub>most repos are private</sub>
